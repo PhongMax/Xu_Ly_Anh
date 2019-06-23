@@ -1,4 +1,7 @@
 # Xu_Ly_Anh
+# Demo
+https://youtu.be/Qo7MMmcgTxg
+
 # Digital Image Processing
 * Bài tập lớn môn Xử Lý Ảnh, Học Kỳ 2 năm 3, HVCNBCVT 
 * NetBeans IDE 8.2
@@ -29,5 +32,3 @@ Yêu cầu: Cài đặt các thuật toán đã học trong slide bài giảng b
  - Boundary Extraction  (Trích xuất đường biên)
  - Region Filling (Tô vùng)
  
-# Demo
-https://youtu.be/Qo7MMmcgTxg

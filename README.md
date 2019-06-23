@@ -29,5 +29,5 @@ Yêu cầu: Cài đặt các thuật toán đã học trong slide bài giảng b
  - Boundary Extraction  (Trích xuất đường biên)
  - Region Filling (Tô vùng)
  
-#Demo
+# Demo
 https://youtu.be/Qo7MMmcgTxg
